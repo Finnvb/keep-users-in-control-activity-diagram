@@ -15,6 +15,7 @@ Als gebruiker wil ik mijn eigen gedrag kunnen vastleggen aan de hand van persoon
 
 ## Uitleg pseudo-code 
 <!-- Leg de pseudo-code in de control fow uit -->
+We beginnen in de Empty state. In deze state wordt getData aangeroepen. State verandert naar loading. Dit zie je terug in het ontwerp met een skeleton loader. In getData wordt fetchData() en renderData() aangeroepen. FetchData haalt de data uit de API op en renderData vertaalt het naar HTML. Is dit gelukt verandert state naar loaded. Is dit niet gelukt verandert state naar error en wordt er error handling uitgevoerd.. 
 
 
 
