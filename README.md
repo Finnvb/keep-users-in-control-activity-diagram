@@ -1,7 +1,7 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-Activity Diagram Reflect for Effect
+# Activity Diagram Reflect for Effect
+
 
 ## User Story
 Als gebruiker wil ik mijn eigen gedrag kunnen vastleggen aan de hand van persoonlijke quizvragen Zodat ik weet hoe ik ervoor sta.
