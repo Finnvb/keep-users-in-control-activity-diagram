@@ -12,6 +12,13 @@ Als gebruiker wil ik mijn eigen gedrag kunnen vastleggen aan de hand van persoon
 
 ![20220309_112946](https://user-images.githubusercontent.com/26089533/157424470-80bfa6ad-a1ab-4cc0-b490-ac9b7ff897f3.jpg)
 
+## Activity Diagram 2.0
+
+![20220316_125341](https://user-images.githubusercontent.com/26089533/158584844-7a0076a4-3b3d-4c7f-9ed6-7c161b953798.jpg)
+
+Dit is een iteratie op de eerste activity diagram die ik heb gemaakt. In bovenstaande schets is er een swimlane voor de wireflow en voor de controlflow.
+
+
 
 ## Uitleg pseudo-code 
 <!-- Leg de pseudo-code in de control fow uit -->
